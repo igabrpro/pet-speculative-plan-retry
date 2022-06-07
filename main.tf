@@ -10,3 +10,6 @@ resource "null_resource" "helloWorld1" {
     command = "echo Helloоо ${random_pet.name.id}"
   }
 }
+/*
+ hello
+*/
